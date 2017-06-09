@@ -16,7 +16,7 @@ Fluctus consists of a web extension and a desktop companion app. It allows to wa
 #### 2. Install web extension:
 
 ![Chrome](chrome.png "Chrome") 
-[Download](url)
+[Install](url)
 
 ---
 

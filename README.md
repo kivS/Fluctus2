@@ -16,7 +16,7 @@ Fluctus consists of a web extension and a desktop companion app. Videos are play
 #### 2. Install web extension:
 
 ![Chrome](chrome.png "Chrome") 
-[Install](url)
+[Install](https://chrome.google.com/webstore/detail/fluctus/iadhmckmblfcoipnbjgphhmomfchpboa)
 
 ---
 

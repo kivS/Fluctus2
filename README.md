@@ -1,6 +1,6 @@
 ## What is it?
 
-Fluctus consists of a web extension and a desktop companion app. Videos in a floating window that is independant of the browser.
+Fluctus consists of a web extension and a desktop companion app. Videos are played in a floating window that is independant from the browser.
 
 ![Chrome](context_menu.PNG "Example") 
 

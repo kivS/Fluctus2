@@ -8,7 +8,7 @@ Fluctus consists of a web extension and a desktop companion app. Videos in a flo
 ### How to install?
 
 
-#### 1. Install and run desktop app: 
+#### 1. Install and run desktop app(Windows/Linux): 
    [Download](https://github.com/kivS/Fluctus/releases)
 
 
